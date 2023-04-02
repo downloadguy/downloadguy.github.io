@@ -80,10 +80,12 @@ Cheated Downloads
 
 ⚠️These files have special instructions to be downloaded the right way. You MUST read the steps to asure the best version of the software. Software such as Microsoft Office (Now Microsoft 365) costs money. However, you can cheat the system and get them for free. Continue as you please.⚠️
 
-  
 [Microsoft Office](https://drive.google.com/file/d/1NQvbP7j8Nf3f1rJELHoh5I0eWaOO_57a/view?usp=share_link)  
 [Instructions](https://msguides.com/office-2021#:~:text=Use%20act%20command%20to%20activate%20Office%202021%20If,try%20the%20command%20%E2%80%9Cact%E2%80%9D%20again%20until%20you%20succeed.)  
-  
+<br>
+<br>
+
+<button name="button" onclick="https://www.github.com/sponsors/downloadguy">Donate</button>
 [button url="https://www.github.com/sponsors/downloadguy"]
 <br>
 (Any donation helps ❤️)
