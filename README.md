@@ -86,7 +86,6 @@ Cheated Downloads
 <br>
 
 <button name="button" onclick="https://www.github.com/sponsors/downloadguy">Donate</button>
-[button url="https://www.github.com/sponsors/downloadguy"]
 <br>
 (Any donation helps ❤️)
 
