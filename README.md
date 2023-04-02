@@ -84,7 +84,9 @@ Cheated Downloads
 [Instructions](https://msguides.com/office-2021#:~:text=Use%20act%20command%20to%20activate%20Office%202021%20If,try%20the%20command%20%E2%80%9Cact%E2%80%9D%20again%20until%20you%20succeed.)  
 <br>
 <br>
-<a href='https:/www.github.com/sponsors/downloadguy/'><button>Download</button></a>
+<a class="btn ml-2 d-none d-md-block" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:621514876,&quot;originating_url&quot;:&quot;downloadguy.github.io main&quot;,&quot;user_id&quot;:80487424}}" data-hydro-click-hmac="5e91eff91157c4a59a4613474d6125d6e4aaafc45b031c372e6d71d1964f3f82" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="www.github.com/sponsors/downloadguy">
+  Donate
+</a>
 <br>
 (Any donation helps ❤️)
 
