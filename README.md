@@ -93,7 +93,7 @@ Cheated Downloads
             text-align: center;
             display: inline-block;
             font-size: 20px;
-            margin: 5px 25px;
+            margin: 10px 30px;
             cursor: pointer;
         }
     </style>
