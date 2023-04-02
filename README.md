@@ -61,7 +61,7 @@ Antivirus Software
 
 [McAfee](https://www.mcafee.com/en-us/antivirus.html)  
   
-[Bitdefender](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-opt/?pid=60off&cid=aff)  
+[Bitdefender](https://www.bitdefender.com/download)  
   
 [Avast](https://www.avast.com/en-us/index#pc)  
   
