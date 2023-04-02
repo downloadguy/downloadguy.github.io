@@ -1,5 +1,3 @@
-<!Doctype md>
-<title>Download Library</title>
 Download Library![Swimming Octocat](http://i.imgur.com/Cj4rMrS.gif "Download Library")
 ======================================================================================
 
@@ -86,7 +84,7 @@ Cheated Downloads
 [Microsoft Office](https://drive.google.com/file/d/1NQvbP7j8Nf3f1rJELHoh5I0eWaOO_57a/view?usp=share_link)  
 [Instructions](https://msguides.com/office-2021#:~:text=Use%20act%20command%20to%20activate%20Office%202021%20If,try%20the%20command%20%E2%80%9Cact%E2%80%9D%20again%20until%20you%20succeed.)  
   
-<kbd href= https://www.github.com/sponsors/downloadguy>KeyBinding Button</kbd>
+<button href= https://www.github.com/sponsors/downloadguy>Donate</button>
 (Any donation helps ❤️)
 
 [Email Me](mailto:adamabdallah2011@outlook.com)
