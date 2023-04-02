@@ -85,12 +85,11 @@ Cheated Downloads
 <br>
 <br>
 <br>
-<head>
     <style>
         .GFG {
             background-color: gray;
             border: 2px gray;
-            color: black;
+            color: gray;
             padding: 5px 10px;
             text-align: center;
             display: inline-block;
@@ -99,15 +98,15 @@ Cheated Downloads
             cursor: pointer;
         }
     </style>
-</head>
-  
+    
 <body>
     <button class="GFG" 
-    onclick="window.location.href = 'https://www.github.com/sponsors/downloadguy';">
+        onclick="window.location.href = 'https://www.github.com/sponsors/downloadguy';">
         Donate
     </button>
 </body>
 <br>
-(Any donation helps ❤️)
+
+Any donation helps ❤️
 
 [Email Me](mailto:adamabdallah2011@outlook.com)
