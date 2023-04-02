@@ -69,7 +69,7 @@ Antivirus Software
   
 [Total AV](https://www.totalav.com/free-download)  
   
-[Malwarebytes](https://try.malwarebytes.com/get-premium/?c=cj&s=1583972&k=13090113&utm_source=cj&utm_medium=aff&utm_content=13090113&utm_campaign=AFF-CJ_1583972&tracking=cj&x-wts=cj&x-affid=1583972&ADDITIONAL_AFFID=cj-1583972&cjevent=0e7fde58d0ca11ed811e00c40a82b821&clickid=0e7fde58d0ca11ed811e00c40a82b821&pid=cj_int&cjdata=MXxOfDB8WXww)
+[Malwarebytes](https://www.malawarebytes.com/download)
 
 * * *
 
