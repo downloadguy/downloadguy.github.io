@@ -84,17 +84,16 @@ Cheated Downloads
 [Instructions](https://msguides.com/office-2021#:~:text=Use%20act%20command%20to%20activate%20Office%202021%20If,try%20the%20command%20%E2%80%9Cact%E2%80%9D%20again%20until%20you%20succeed.)  
 <br>
 <br>
-<br>
     <style>
         .GFG {
-            background-color: gray;
-            border: 2px gray;
+            background-color: light gray;
+            border: 1px solid black;
             color: gray;
             padding: 5px 10px;
             text-align: center;
             display: inline-block;
             font-size: 20px;
-            margin: 10px 30px;
+            margin: 5px 25px;
             cursor: pointer;
         }
     </style>
