@@ -89,7 +89,7 @@ Cheated Downloads
             background-color: light gray;
             border: 1px solid black;
             color: gray;
-            padding: 30px 30px;
+            padding: 100x 100px;
             text-align: center;
             display: inline-block;
             font-size: 20px;
