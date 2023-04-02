@@ -88,9 +88,9 @@ Cheated Downloads
 <head>
     <style>
         .GFG {
-            background-color: white;
-            border: 2px solid black;
-            color: green;
+            background-color: gray;
+            border: 2px gray;
+            color: black;
             padding: 5px 10px;
             text-align: center;
             display: inline-block;
