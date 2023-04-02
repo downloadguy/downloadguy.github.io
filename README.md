@@ -84,12 +84,6 @@ Cheated Downloads
 [Instructions](https://msguides.com/office-2021#:~:text=Use%20act%20command%20to%20activate%20Office%202021%20If,try%20the%20command%20%E2%80%9Cact%E2%80%9D%20again%20until%20you%20succeed.)  
 <br>
 <br>
-<button id="donate-button" class="cta-button" data-test-label="donate-button" onclick="window.open(
-    'www.github.com/sponsors/downloadguy',
-    'donate-button',
-    'width=400, height=200'
-  ); return false;">Donate</button>
-<br>
 <br>
     <style>
         .GFG {
