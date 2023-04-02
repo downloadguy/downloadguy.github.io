@@ -1,5 +1,5 @@
-Download Library
-
+<!Doctype md>
+<title>Download Library</title>
 Download Library![Swimming Octocat](http://i.imgur.com/Cj4rMrS.gif "Download Library")
 ======================================================================================
 
