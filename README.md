@@ -85,6 +85,7 @@ Cheated Downloads
 <br>
 <br>
 <br>
+<head>
     <style>
         .GFG {
             background-color: white;
@@ -106,8 +107,7 @@ Cheated Downloads
         Donate
     </button>
 </body>
-  
-</html>                    
+<br>
 (Any donation helps ❤️)
 
 [Email Me](mailto:adamabdallah2011@outlook.com)
